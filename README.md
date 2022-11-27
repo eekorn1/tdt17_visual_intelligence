@@ -9,3 +9,6 @@ Copy the contents of yolov5_files/runs to yolov5/runs
 
 ## Add custom data files
 Copy the contents of yolov5_files/data to yolov5 data
+
+## Run Model
+The mini_project.ipynb notebook can be used to run the model in Google Colab
